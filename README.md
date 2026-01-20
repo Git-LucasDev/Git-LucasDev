@@ -2,17 +2,6 @@
   <img src="https://raw.githubusercontent.com/Git-LucasDev/Git-LucasDev/main/image/avatar.png" alt="Lucas Dev" width="150" />
 </p>
 
-<p align="center">
-  <!-- Badges esenciales -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
 # 👋 Hola, soy Lucas Emmanuel Zarandón
 
 ### 🚀 Técnico Superior en Desarrollo de Software · Web & Technology
@@ -24,10 +13,28 @@ Me interesa seguir aprendiendo, mejorar mis prácticas y aportar valor real en p
 
 ## 🧑‍💻 Sobre mí
 
-🎯 Desarrollo web y tecnologías modernas  
-📈 Aprendizaje continuo  
-🛠️ Proyectos reales y freelance  
-🤝 Colaboración en equipo
+🎯 Enfocado en desarrollo web y tecnologías modernas  
+📈 Aprendizaje continuo y mejora constante  
+🛠️ Proyectos reales, freelance y oportunidades laborales  
+🤝 Abierto a colaborar y crecer en equipo  
+
+---
+
+## 🛠️ Tecnologías & Herramientas
+
+🌐 **HTML5**  
+🎨 **CSS3**  
+⚡ **JavaScript**  
+🐍 **Python**  
+🐘 **PHP**  
+🗄️ **MySQL**  
+🐳 **Docker**  
+
+🧩 **Bulma**  
+💨 **Tailwind CSS**  
+🅱️ **Bootstrap 5**  
+
+🔧 **Git & GitHub**
 
 ---
 
@@ -38,6 +45,18 @@ Me interesa seguir aprendiendo, mejorar mis prácticas y aportar valor real en p
 - 🎵 Música  
 - ☕ Café / Más café  
 - 🏃‍♂️ Deporte
+
+---
+
+## 📊 Actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Git-LucasDev&show_icons=true&hide_title=true&hide=issues&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-LucasDev&layout=compact&theme=default" />
+</p>
 
 ---
 
@@ -56,7 +75,7 @@ Me interesa seguir aprendiendo, mejorar mis prácticas y aportar valor real en p
 
 ## ✨ Objetivo
 
-🚀 Crecer como desarrollador  
+🚀 Seguir creciendo como desarrollador  
 💼 Conseguir oportunidades laborales  
 🧑‍💻 Trabajar en proyectos freelance  
 📚 Construir un perfil sólido y profesional en GitHub  

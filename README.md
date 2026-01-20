@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="URL_DE_TU_AVATAR" alt="Lucas Dev" width="150"/>
+</p>
+
 # 👋 Hola, soy Lucas Emmanuel Zarandón
 
 ### 🚀 Técnico Superior en Desarrollo de Software · Web & Technology

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Git-LucasDev/Git-LucasDev/main/image/avatar.jpg" alt="Lucas Dev" width="150" style="border-radius:50%;" />
+  <img src="https://raw.githubusercontent.com/Git-LucasDev/Git-LucasDev/main/image/avatar.png" alt="Lucas Dev" width="150" />
 </p>
 
 # 👋 Hola, soy Lucas Emmanuel Zarandón

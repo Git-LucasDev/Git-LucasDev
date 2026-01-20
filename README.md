@@ -2,6 +2,32 @@
   <img src="https://raw.githubusercontent.com/Git-LucasDev/Git-LucasDev/main/image/avatar.png" alt="Lucas Dev" width="150" />
 </p>
 
+<p align="center">
+  <!-- Tecnologías principales -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Frameworks / CSS -->
+  <img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Herramientas -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
 # 👋 Hola, soy Lucas Emmanuel Zarandón
 
 ### 🚀 Técnico Superior en Desarrollo de Software · Web & Technology
@@ -17,24 +43,6 @@ Me interesa seguir aprendiendo, mejorar mis prácticas y aportar valor real en p
 📈 Aprendizaje continuo y mejora constante  
 🛠️ Proyectos reales, freelance y oportunidades laborales  
 🤝 Abierto a colaborar y crecer en equipo  
-
----
-
-## 🛠️ Tecnologías & Herramientas
-
-🌐 **HTML5**  
-🎨 **CSS3**  
-⚡ **JavaScript**  
-🐍 **Python**  
-🐘 **PHP**  
-🗄️ **MySQL**  
-🐳 **Docker**  
-
-🧩 **Bulma**  
-💨 **Tailwind CSS**  
-🅱️ **Bootstrap 5**  
-
-🔧 **Git & GitHub**
 
 ---
 

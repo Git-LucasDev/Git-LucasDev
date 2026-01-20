@@ -21,6 +21,7 @@ Me interesa seguir aprendiendo, mejorar mis prácticas y aportar valor real en p
 🌐 **HTML5**  
 🎨 **CSS3**  
 ⚡ **JavaScript**  
+🐍 **Python**  
 🐘 **PHP**  
 🗄️ **MySQL**  
 
